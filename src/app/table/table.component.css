@@ -1,0 +1,54 @@
+.searchStyle {
+    margin-left: 50px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+label {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+input[type="text"] {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td,
+#customers th {
+    border: 2px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: grey;
+    color: black;
+}
+
+.AllChanges {
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 52.5%
+}

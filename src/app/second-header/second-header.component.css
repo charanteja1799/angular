@@ -1,0 +1,20 @@
+.buttonHeader {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 33%;
+    float: left;
+    margin-left: 1px;
+}
+
+.buttonHeader:hover {
+    background-color: grey;
+    color: white;
+    border: 2px solid grey;
+    display: block;
+}
